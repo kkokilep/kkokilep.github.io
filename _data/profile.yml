@@ -52,7 +52,7 @@ experience:
 - name: Apple
   logo: /assets/images/badges/PKU_red.png
   position: Camera Algorithms Machine Learning Intern
-  date: May 2025 - Aug 2025
+  date: May 2025 - present
 - name: Georgia Institute of Technology
   logo: /assets/images/badges/PKU_red.png
   position: Graduate Research Assistant
@@ -60,7 +60,19 @@ experience:
 - name: Johns Hopkins Applied Physics Lab
   logo: /assets/images/badges/PKU_red.png
   position: Research Intern
-  date: Sep. 2020 - present
+  date: May 2020 - Aug. 2020
+- name: Maryland Cybersecurity Center
+  logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: Jan. 2020 - Apr. 2020
+- name: Northrop Grumman
+  logo: /assets/images/badges/PKU_red.png
+  position: Hardware Engineering Intern
+  date: Jun. 2019 - Aug. 2019
+- name: iD Tech Camps American University
+  logo: /assets/images/badges/PKU_red.png
+  position: Lead Instructor
+  date: Jun. 2018 - Aug. 2018
 
 awards:
 - name: Award Name 2
