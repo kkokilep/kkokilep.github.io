@@ -10,7 +10,7 @@ pub_post:       'Under review.'
 
 abstract: >-
   In this work, we study SSL training dynamics in terms of both mutual information between projection and representation spaces as well as in terms of overall dimensionality.
-cover:          /assets/images/covers/2025_neurips.jpg
+cover:          /assets/images/covers/2025_neurips.png
 authors:
   - Kiran Kokilepersaud
   - Mohit Prabhushankar
