@@ -29,7 +29,7 @@ short_bio: >-
     My research targets understanding self supervised algorithms (SSL) from both a theoretical and application specific perspective.
     Specifically, I work on applying concepts from information theory to motivate the design of SSL algorithms as well as to explain exactly how they work.
     My work has been applied within medical, autonomous driving, seismology, and general machine learning problems.
-    I love machine learning amd artificial intelligence as a discipline and I am interested in a wide range of topics in the field!
+    I love machine learning and artificial intelligence as a discipline and I am interested in a wide range of topics in the field!
   </p>
 
 portrait_url: /assets/images/photos/kiran.jpg
@@ -79,7 +79,7 @@ teaching:
   logo: /assets/images/badges/georgia_tech.png
   position: Course Developer and Teaching Fellow
   date: Jan. 2024 - May 2025
-- name: Intro to Signals Processing ECE 2006
+- name: Intro to Signals Processing ECE 2026
   logo: /assets/images/badges/georgia_tech.png
   position: Graduate Teaching Assistant
   date: Jan. 2021 - Aug. 2021
