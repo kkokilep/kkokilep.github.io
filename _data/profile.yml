@@ -3,9 +3,8 @@ secondary_name: ""
 navbar_name: "Kiran Kokilepersaud"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/georgia_tech.png  # Logo is optional
   name: PhD Student at the Georgia Institute of Technology
-- name: Position 2 without logo
 
 
 email: "kpk6@gatech.edu"
@@ -32,7 +31,7 @@ short_bio: >-
     I love machine learning amd artificial intelligence as a discipline and I am interested in a wide range of works in the field!
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/kiran.jpg
 #portrait_caption: >-
 
 
@@ -44,46 +43,58 @@ education:
     Ph.D. Student
   date: Sep. 2020 - present
 - name: University of Maryland at College Park
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/maryland.png
   position: B.S. in Electrical Engineering
   date: Sep. 2016 - May 2020
 
 experience:
 - name: Apple
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/apple.png
   position: Camera Algorithms Machine Learning Intern
   date: May 2025 - present
 - name: Georgia Institute of Technology
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/georgia_tech.png
   position: Graduate Research Assistant
   date: Sep. 2020 - present
 - name: Johns Hopkins Applied Physics Lab
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/apl.png
   position: Mission Systems Research Intern
   date: May 2020 - Aug. 2020
 - name: Maryland Cybersecurity Center
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/maryland.png
   position: Research Intern
   date: Jan. 2020 - Apr. 2020
 - name: Northrop Grumman
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ng.png
   position: Hardware Engineering Intern
   date: Jun. 2019 - Aug. 2019
 - name: iD Tech Camps American University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/id.png
   position: Lead Instructor
   date: Jun. 2018 - Aug. 2018
 
 teaching:
-- name: Apple
-  logo: /assets/images/badges/PKU_red.png
-  position: Camera Algorithms Machine Learning Intern
-  date: May 2025 - present
+- name: AI Foundations ECE 2806
+  logo: /assets/images/badges/georgia_tech.png
+  position: Course Developer and Teaching Fellow
+  date: Jan. 2024 - May 2025
+- name: Intro to Signals Processing ECE 2006
+  logo: /assets/images/badges/georgia_tech.png
+  position: Graduate Teaching Assistant
+  date: Jan. 2021 - Aug. 2021
+- name: Intro to C Programming ENEE 140
+  logo: /assets/images/badges/maryland.png
+  position: Undergraduate Teaching Fellow
+  date: Sep. 2018 - Dec. 2019
 
 awards:
-- name: Award Name 2
+- name: NextProf Workshop Acceptance
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: ICIP 2024 Student Travel Grant
+  date: 2024
+- name: CSIP Service Award
+  date: 2023
+- name: IEEE Big Data 2023 Student Travel Grant
+  date: 2023
+- name: Georgia Tech PhD President's Fellowship
+  date: 2020
