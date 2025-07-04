@@ -74,6 +74,12 @@ experience:
   position: Lead Instructor
   date: Jun. 2018 - Aug. 2018
 
+teaching:
+- name: Apple
+  logo: /assets/images/badges/PKU_red.png
+  position: Camera Algorithms Machine Learning Intern
+  date: May 2025 - present
+
 awards:
 - name: Award Name 2
   date: 2024
