@@ -4,7 +4,7 @@ date:           2025-05-17 00:01:00 +0800
 selected:       true
 # pub:            "Winter Applications on Computer Vision (WACV)"
 # pub_pre:        "Submitted to "
-pub_post:       'Under review.'
+pub_post:       'Under review at ICLR 2026'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">ORAL</span>'
 # pub_date:       "2025"
 
